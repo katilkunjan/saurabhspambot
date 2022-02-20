@@ -7,7 +7,7 @@
 
 [![Forks](https://img.shields.io/github/forks/bhumiharsaurabh/saurabhspambot?style=flat-square&color=orange)](https://github.com/bhumiharsaurabh/saurabhspambot/fork)
 [![Python](https://img.shields.io/badge/Python-v3.9.7-blue)](https://www.python.org/)
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/bhumiharsaurabh/saurabhspambot)   
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/bhumiharsaurabh/saurabhspambot-deploy)   
 ----
  
 - [x] ☯︎ ғᴀsᴛ ᴀɴᴅ sᴛᴀʙʟᴇ ☯︎
