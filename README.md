@@ -2,7 +2,7 @@
   <img src="./resources/logo.jpg" alt="BOT-SPAM Logo">
 </p>
 <h1 align="center">
-  <b>ʀɪᴢᴏᴇʟ X sᴘᴀᴍ</b>
+  <b>SAURABH SPAM BOT</b>
 </h1>
 
 [![Forks](https://img.shields.io/github/forks/bhumiharsaurabh/saurabhspambot?style=flat-square&color=orange)](https://github.com/bhumiharsaurabh/saurabhspambot/fork)
