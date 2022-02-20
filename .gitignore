@@ -1,0 +1,4 @@
+.env
+__pycache__/
+sau.session
+sau.session-journal
